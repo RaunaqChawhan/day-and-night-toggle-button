@@ -6,6 +6,7 @@ html, body {
   box-sizing: border-box;
   font-family: 'Nunito', sans-serif;
   font-size: 40px;
+  background: #fffcc1;
 }
 
 * {
@@ -316,6 +317,9 @@ p {
   letter-spacing: 15px;
   background: #34495e;
   color: #FFF;
+  max-width: 800px;
+  margin: 20px auto;
+  border-radius: 50px;
 }
 
 p.morning {
